@@ -1,0 +1,15 @@
+Movie Title, Release Year, MPAA Rating, Run Time
+Call Me by Your Name, 2017, R, 2:10
+Blue Valentine, 2010, R, 2:00
+Terminator 2: Judgement Day, 1991, R, 2:33
+This is the End, 2013, R, 1:47
+Three Billboards Outside Ebbing Missouri, 2017, R, 1:55
+The Dark Knight Rises, 2012, PG-13, 2:45
+The Lord of the Rings: The Fellowship of the Ring, 2001, PG-13, 3:28
+Superbad, 2007, R, 1:59
+Forest Gump, 1994, PG-13, 2:22
+Inception, 2010, PG-13, 2:28
+The Matrix, 1999, R, 2:16
+Snatch, 2000, R, 1:42
+Inglorious Basters, 2009, R, 2:33
+The Lion King, 1994, G, 1:28
